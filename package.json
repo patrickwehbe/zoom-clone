@@ -1,0 +1,26 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickwehbe/zoom-clone.git"
+  },
+  "keywords": [],
+  "author": "Patrick Wehbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickwehbe/zoom-clone/issues"
+  },
+  "homepage": "https://github.com/patrickwehbe/zoom-clone#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
